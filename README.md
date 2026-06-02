@@ -3,7 +3,7 @@
 ## A Multi-Region Camera-Trap Dataset, an Open Annotation Tool, and a Dual-Channel Detection Method
 
 <p align="center">
-  <img src="assets/f4.png" alt="Dual-channel detection workflow" width="900">
+  <img src="f4.png" alt="Dual-channel detection workflow" width="900">
 </p>
 
 <p align="center">
